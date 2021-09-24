@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Njmcq
 - 👀 I’m interested in Apple and macOS development
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift and Python
 - 💞️ I’m looking to collaborate on open-source projects and all-round cool stuff!
 - 📫 How to reach me: @nick.mcq100
 
