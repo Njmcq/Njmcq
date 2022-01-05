@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Njmcq
-- 👀 I’m interested in Apple and macOS development
+- 👀 I’m interested in macOS development
 - 🌱 I’m currently learning Swift and Python
-- 💞️ I’m looking to collaborate on open-source projects and all-round cool stuff!
-- 📫 How to reach me: @nick.mcq100
+- 💞️ I’m looking to collaborate on open-source projects and general cool stuff!
+- 📫 How to reach me: @Njmcq
 
 <!---
 Njmcq/Njmcq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
